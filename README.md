@@ -25,3 +25,12 @@ Adding features to constract casual model
 ### Casual model
 
 using dowhy library to draw the casual graph.
+
+### Installaions
+
+- Pandas
+- matplotlib
+- scipy
+- seaborn
+- folium
+- dowhy
