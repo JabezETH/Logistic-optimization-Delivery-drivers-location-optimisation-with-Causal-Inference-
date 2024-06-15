@@ -1,6 +1,6 @@
 # Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-
 
-![alt text](image.png)
+![Description](/home/jabez/Documents/week_8/Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-/image.png)
 
 ## Objective
 
