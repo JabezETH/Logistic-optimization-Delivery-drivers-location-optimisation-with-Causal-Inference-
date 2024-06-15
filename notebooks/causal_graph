@@ -1,0 +1,18 @@
+// Causal Graph
+digraph {
+	A [label=lat_org]
+	B [label=lon_org]
+	C [label=lat_des]
+	D [label=lon_des]
+	E [label=distance_to_client_km]
+	F [label=holiday_name]
+	G [label=day_type]
+	H [label=driver_action]
+	A -> E
+	B -> E
+	C -> E
+	D -> E
+	E -> H
+	F -> H
+	G -> H
+}
