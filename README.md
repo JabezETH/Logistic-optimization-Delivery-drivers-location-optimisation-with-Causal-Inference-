@@ -33,6 +33,10 @@ Adding features to constract casual model
 
 using casuaNex library to draw the casual graph.
 
+- Using CasualNex to discover casuality
+- Using domain knowladge to build casuality stracture
+- Answering buisness question using the do calculus
+
 ### Installaions
 
 - Pandas
