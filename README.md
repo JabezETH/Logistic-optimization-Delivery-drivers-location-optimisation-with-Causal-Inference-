@@ -40,9 +40,6 @@ using casuaNex library to draw the casual graph.
 
 ### Installaions
 
-- Pandas
-- matplotlib
-- scipy
-- seaborn
-- folium
-- dowhy
+```sh
+- pip install requirments.txt
+```
