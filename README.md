@@ -43,3 +43,18 @@ using casuaNex library to draw the casual graph.
 ```sh
 - pip install requirments.txt
 ```
+
+### Usage 
+
+Creat virtual enviroment:
+
+```sh
+- python3 venv env
+- source env/bin/activate
+```
+
+run the frontend:
+```sh
+- cd frontend
+- streamlit run ru.py
+```
