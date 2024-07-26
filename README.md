@@ -38,6 +38,7 @@ using casuaNex library to draw the casual graph.
 - Answering buisness question using the do calculus
 - Predictions for order fulfilment
 
+![Description](/screenshots/casual_inferance_graph.png)
 ### Installaions
 
 ```sh
@@ -56,5 +57,5 @@ Creat virtual enviroment:
 run the frontend:
 ```sh
 - cd frontend
-- streamlit run ru.py
+- streamlit run run.py
 ```
