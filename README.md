@@ -38,7 +38,7 @@ using casuaNex library to draw the casual graph.
 - Answering buisness question using the do calculus
 - Predictions for order fulfilment
 
-![Description](/screenshots/casual_inferance_graph.png)
+![Description](/screenshots/driver_action_causes.png)
 ### Installaions
 
 ```sh
