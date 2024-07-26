@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <h3 align="center">Semantic Image and Text Alignment</h3>
+  <h3 align="center">Logistic optimization Delivery Drivers Location optimisation with Causal Inferencet</h3>
 
   <p align="center">
-    Logistic optimization Delivery Drivers Location optimisation with Causal Inference
+    
     <br />
     <a href="https://medium.com/@jabezkassa2022/logistic-optimization-delivery-drivers-location-optimisation-with-causal-inference-3549fc0b643b"><strong>Explore the blog »</strong></a>
     <br />
