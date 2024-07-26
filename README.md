@@ -1,5 +1,9 @@
 # Logistic-optimization-Delivery-drivers-location-optimisation-with-Causal-Inference-
 
+    <br />
+    <a href="https://medium.com/@jabezkassa2022/logistic-optimization-delivery-drivers-location-optimisation-with-causal-inference-3549fc0b643b"><strong>Explore the blog »</strong></a>
+    <br />
+
 ![Description](image.png)
 
 ## Objective
